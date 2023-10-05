@@ -1,8 +1,8 @@
-# flutterwidget
+# Nama: Achmad Rachmandika Rizky Pratama
 
-A new Flutter project.
+# Kelas: 3A
 
-## Getting Started
+# NIM: 2041720125
 
 <!-- This project is a starting point for a Flutter application.
 
